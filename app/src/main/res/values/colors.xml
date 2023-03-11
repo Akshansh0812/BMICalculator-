@@ -11,4 +11,9 @@
     <color name="layout_background">#351E21</color>
     <color name="car_background">#631E1E</color>
     <color name="text_hint">#BAA4A4</color>
+
+    <color name="under_weight">#F8E114</color>
+    <color name="normal">#A3994F</color>
+    <color name="over_weight">#876D6D</color>
+    <color name="obese">#83130A</color>
 </resources>
